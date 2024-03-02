@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Complete project proposal",
+    "description": "Write and finalize the project proposal document",
+    "isDone": false
+  },
+  {
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the upcoming meeting",
+    "isDone": true
+  },
+  {
+    "title": "Review code changes",
+    "description": "Review and provide feedback on recent code changes",
+    "isDone": false
+  },
+  {
+    "title": "Attend team meeting",
+    "description": "Participate in the weekly team meeting",
+    "isDone": false
+  },
+  {
+    "title": "Update project documentation",
+    "description": "Make necessary updates to project documentation",
+    "isDone": true
+  },
+  {
+    "title": "Test new feature",
+    "description": "Perform testing on the newly implemented feature",
+    "isDone": false
+  },
+  {
+    "title": "Code refactoring",
+    "description": "Refactor existing codebase for better maintainability",
+    "isDone": false
+  },
+  {
+    "title": "Bug fixes",
+    "description": "Address and fix reported bugs in the application",
+    "isDone": true
+  },
+  {
+    "title": "Implement new feature",
+    "description": "Start implementation of a new feature based on requirements",
+    "isDone": false
+  },
+  {
+    "title": "Code review",
+    "description": "Conduct code review session for peer's code changes",
+    "isDone": false
+  }
+]

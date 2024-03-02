@@ -1,0 +1,1 @@
+export const APIBASEURL = "http://localhost:4000";
